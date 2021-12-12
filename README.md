@@ -7,6 +7,7 @@
 	<img alt="two galaxies" src="images/two-galaxies.png" width=400/>
 	<img alt="two galaxies" src="images/two-galaxies-debug.png" width=400/>
 	<img alt="two galaxies" src="images/noise.png" width=400/>
+	<img alt="two galaxies" src="images/collision.png" width=400/>
   </p>
   
  ## Features
