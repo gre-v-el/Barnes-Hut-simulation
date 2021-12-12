@@ -1,0 +1,9 @@
+NAVIGATION (heavily inspired by blender's)
+    middle mouse button - rotate
+
+    scroll - zoom
+    control + mouse up/down - zoom
+
+    shift + middle mouse button - dolly move
+
+    f3 - show octree
